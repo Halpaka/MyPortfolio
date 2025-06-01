@@ -4,7 +4,7 @@
 **목표:**  
 Custom GPT를 활용하여 Galaxy Z Flip6 제품에 대한 리뷰 수집, 감성 분석, 키워드 추출을 자동화하고, 이를 바탕으로 인사이트 리포트 및 홍보 영상을 제작하는 통합 시스템을 구축했습니다.
 
-**기간:** 2025.05  
+**기간:** 2025.04.28-30
 **수행 팀:** KT AIVLE School 11반 29조  
 
 ---
@@ -66,7 +66,7 @@ Custom GPT를 활용하여 Galaxy Z Flip6 제품에 대한 리뷰 수집, 감성
 
 ## 📎 결과물
 - 발표용 PPT: `DX_11반_29조_PPT.pdf`  
-- 영상 링크: [📽️ 영상 보기](https://your-video-link.com)
+- 영상 링크: [📽️ 영상 보기]https://www.youtube.com/watch?v=K5fIkHAa0-o
 
 ---
 
