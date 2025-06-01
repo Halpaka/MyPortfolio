@@ -1,1 +1,24 @@
-Project2_WineClassification/README.md
+# 🍷 와인 등급 분류 프로젝트
+
+## 🎯 프로젝트 목적
+- 와인 데이터(산도, 당도 등)를 기반으로 품질 등급을 예측하는 분류 모델 개발
+
+## 🧪 사용 기술
+- Python, Scikit-learn, DecisionTree, GridSearchCV
+
+## 🧭 분석 흐름
+1. 데이터 전처리 및 이상값 처리
+2. 특성 선택 (Feature Selection)
+3. DecisionTreeClassifier 학습
+4. GridSearch를 통한 하이퍼파라미터 튜닝
+
+## 📝 결과
+- 최적 모델의 정확도: 82%
+- 당도/산도/알콜 비율이 등급 분류에 중요하게 작용함
+
+## 🤖 스마트공정 연계
+- 와인의 품질 기준 분류 방식은 제조 공정에서의 품질 예측 로직과 유사
+- 공정 데이터 기반의 품질 판단 자동화에 응용 가능
+
+## 📂 폴더 구성
+- `DX_11반_29조_PPT.pdf`: 발표 자료
