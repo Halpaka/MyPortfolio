@@ -28,8 +28,10 @@
 
 ## 🗂️ 프로젝트 구성
 ```
-📁 DX_11반_30조.pdf           ← 최종 발표 자료
-📁 DX_11반_30조.drawio        ← 시스템 설계도
+📁 DX_11반_30조.pdf                 ← 최종 발표 자료
+📁 목표시스템 구성도.png             ← 목표시스템 구성도
+📁 서비스 흐름도.png                 ← 서비스 흐름도
+📁 하드웨어_소프트웨어 구성도.png     ← 하드웨어_소프트웨어 구성도
 🔗 Figma 링크 (시연 프로토타입)
 ```
 🔗 [Figma 시연 링크](https://www.figma.com/proto/TGv7oNziJ0YHDmQdRUqtvj/3%EC%B0%A8-%EB%AF%B8%ED%94%84?node-id=24-1083&p=f&t=y9EK8AtAbYt25SmN-1)
