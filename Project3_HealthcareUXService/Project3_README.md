@@ -34,7 +34,7 @@
 📁 하드웨어_소프트웨어 구성도.png     ← 하드웨어_소프트웨어 구성도
 🔗 Figma 링크 (시연 프로토타입)
 ```
-🔗 [Figma 시연 링크](https://www.figma.com/proto/TGv7oNziJ0YHDmQdRUqtvj/3%EC%B0%A8-%EB%AF%B8%ED%94%84?node-id=24-1083&p=f&t=y9EK8AtAbYt25SmN-1)
+🔗 [Figma 시연 링크][(https://www.figma.com/proto/TGv7oNziJ0YHDmQdRUqtvj/3%EC%B0%A8-%EB%AF%B8%ED%94%84?node-id=24-1083&p=f&t=y9EK8AtAbYt25SmN-1)](https://www.figma.com/proto/TfAw3uTvD6A6NkD2DgPsxA/%EC%A0%9C%EB%AA%A9-%EC%97%86%EC%9D%8C?node-id=1-510&t=1ke7fz3MkznoC9ah-1)
 
 ---
 
