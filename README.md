@@ -13,6 +13,7 @@ KT AIVLE School 부트캠프에서 수행한 실전 프로젝트를 기반으로
   - ADSP (데이터분석 준전문가)
   - AICE Associate (AI 코어 지식 인증)
   - TOEIC Speaking IH
+  - 위험물산업기사
 - 🛠 주요 기술스택: Python, Pandas, Scikit-learn, draw.io, Markdown, Figma, GitHub
 
 ---
